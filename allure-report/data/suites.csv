@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1141","Post Call Example With Token and Booking ID","chromium","2026-10-28","passed","2026-10-28","","postcall.spec.js","",""
+"","1899","Delete Example","chromium","2026-10-28","failed","2026-10-28","","deletecall.spec.js","",""
+"","3774","Test Get API","chromium","2026-10-28","passed","2026-10-28","","getcall.spec.js","",""
+"","1169","Post Call Example With BookingID","chromium","2026-10-28","passed","2026-10-28","","postcall.spec.js","",""

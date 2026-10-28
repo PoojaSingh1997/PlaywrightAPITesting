@@ -1,0 +1,15 @@
+Token is 53b4aec16047852
+{
+  bookingid: 4880,
+  booking: {
+    firstname: 'Pooja',
+    lastname: 'Singh',
+    totalprice: 111,
+    depositpaid: true,
+    bookingdates: { checkin: '2026-01-01', checkout: '2026-02-02' },
+    additionalneeds: 'Breakfast'
+  }
+}
+New Booking ID is undefined
+**********************
+405

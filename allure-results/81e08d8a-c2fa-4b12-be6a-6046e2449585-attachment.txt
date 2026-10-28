@@ -1,0 +1,12 @@
+200
+{
+  bookingid: 2304,
+  booking: {
+    firstname: 'Pooja',
+    lastname: 'Singh',
+    totalprice: 300,
+    depositpaid: true,
+    bookingdates: { checkin: '2026-01-01', checkout: '2026-02-01' },
+    additionalneeds: 'Dinner'
+  }
+}
